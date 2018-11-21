@@ -1,0 +1,19 @@
+{
+  "name": "mochatesting",
+  "version": "1.0.0",
+  "description": "Simple app for testing",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeffreypang911/mochatesting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeffreypang911/mochatesting/issues"
+  },
+  "homepage": "https://github.com/Jeffreypang911/mochatesting#readme"
+}
